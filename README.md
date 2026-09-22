@@ -23,12 +23,12 @@ A church administration system currently in active real-world use for daily oper
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,php,html,css,git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,php,html,css,git&theme=dark" />
 </p>
 
 **Frontend:** React · Next.js · HTML5 · CSS3
 **Backend:** Node.js · Express.js · PHP (CodeIgniter 3)
-**Tools:** Git & GitHub · VS Code · Docker
+**Tools:** Git & GitHub · VS Code
 
 ---
 
@@ -41,8 +41,7 @@ A church administration system currently in active real-world use for daily oper
   <a href="mailto:vannessatriagunawan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/6282382685877" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://discord.com/users/462634288773464066" target="_blank">
+    <img src="https://img.shields.io/badge/maviansn-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/maviansn-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
